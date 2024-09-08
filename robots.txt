@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://q1no.github.io/sitemap/sitemap.txt
